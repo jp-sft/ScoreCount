@@ -1,0 +1,16 @@
+Game=1,Date=15122019,Goals=3,Ahmed=2,Sami=1
+Game=2,Date=13022020,Goals=1,Sami=1
+Game=3,Date=22032020,Goals=2,Mohamed=1,Ahmed=1
+Game=4,Date=25132020,Goals=3,Ahmed=2,Sami=1
+Game=5,Date=14042020,Goals=3,Ahmed=2,Sami=1
+Game=6,Date=22042020,Goals=1,Ahmed=1
+Game=7,Date=30042020,Goals=4,Achraf=2,Sami=1,Moez=1
+Game=8,Date=15052020,Goals=3,Moez=2,Sami=1
+Game=9,Date=22052020,Goals=2,Moez=1,Sami=1
+Game=10,Date=31052020,Goals=5,Ahmed=2,Sami=2,Moez=1
+Game=11,Date=02062020,Goals=4,Achraf=2,Ahmed=2
+Game=12,Date=08062020,Goals=1,Ahmed=1
+Game=13,Date=09062020,Goals=2,Ahmed=1,Moez=1
+Game=14,Date=11062020,Goals=2,Moez=2
+Game=15,Date=14062020,Goals=3,Ahmed=2,Moez=1
+Game=16,Date=03072020,Goals=1,Sami=1
